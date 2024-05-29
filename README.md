@@ -1,4 +1,4 @@
-## Hi there 👋 I'm uta-noki!!!
+## Hi there 👋 I'm uta-noki
 
 <!--
 **uta-noki/uta-noki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
